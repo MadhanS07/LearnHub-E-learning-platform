@@ -38,10 +38,15 @@ Open another terminal in VS Code and run the following commands to install the n
 The backend server will start on PORT 5000 by default. You can adjust this setting in the .env file if needed.
 
 Technologies Used
+
 Frontend: React, HTML, CSS, JavaScript, Bootstrap
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Authentication: JSON Web Tokens (JWT)
+
 Environment Management: dotenv
 
 
